@@ -6,13 +6,6 @@ This is the PyTorch Implementation of our paper "[Efficient End-to-End Video-Que
 
 ![alt text](docs/fig2.png 'overview of the network')
 
-# Platform and dependencies
-Ubuntu 14.04  
-Python 3.7  
-CUDA10.1  
-CuDNN7.5+  
-pytorch>=1.7.0
-
 # Data Preparation
 * Download the dataset  
   MSVD-QA: [link](https://github.com/xudejing/video-question-answering)   
@@ -22,7 +15,7 @@ pytorch>=1.7.0
   Youtube2Text-QA: please ref [link](https://github.com/fanchenyou/EgoVQA/tree/master/data_zhqa)
   For the text-to-video retrieval task in our ablation study, pleade ref [link](https://github.com/salesforce/ALPRO)
 
-* Preprocessing
+* Word Glove Embedding and Video Frames extraction
   1. To extract questions or answers Glove Embedding, please ref [here](https://github.com/thaolmk54/hcrn-videoqa).  
   Take the action task in TGIF-QA dataset as an example, we have features at the path /inputdata:
   TGIF/word/Action/TGIF_Action_train_questions.pt
