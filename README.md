@@ -29,9 +29,6 @@ This is the PyTorch Implementation of our paper "[Efficient End-to-End Video-Que
   TGIF/video/Action/tumblr_no00ddSlG31t34v14o1_250.npz
   TGIF/video/Action/tumblr_nd24xaX8d11qkb1azo1_250.npz
   ...
-  
-# Train and test
-run python train.py in your terminal.
 
 # Reference
 ```
