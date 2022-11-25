@@ -1,7 +1,7 @@
 # PMT-AAAI23
 Efficient End-to-End Video-Question Answering with Pyramidal Multimodal Transformer - AAAI23
 
-# MHN
+# PMT
 This is the PyTorch Implementation of our paper "[Efficient End-to-End Video-Question Answering with Pyramidal Multimodal Transformer]". (accepted by AAAI’23)
 
 ![alt text](docs/fig2.png 'overview of the network')
