@@ -32,9 +32,9 @@ This is the PyTorch Implementation of our paper "[Efficient End-to-End Video-Que
 
 # Reference
 ```
-@article{peng2022MHN,
+@article{peng2022PMT,
      title={Efficient End-to-End Video-Question Answering with Pyramidal Multimodal Transformer},
      author={Peng Min, Wang Chongyang, Shi Yu, Zhou Xiang-Dong},
-     journal={Association for the Advancement of Artificial Intelligence (AAAI)},
+     journal={Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)},
      year={2023}}
 ```
